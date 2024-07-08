@@ -9,7 +9,7 @@ The scraper scrapes this website: <https://www.formula1.com>
 ## Installation
 
 ```bash
-npm i f1-api-node
+npm i f1-api-node-2024
 ```
 
 ## Accessing API through Docker
