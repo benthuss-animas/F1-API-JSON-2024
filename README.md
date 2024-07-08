@@ -1,4 +1,6 @@
-# Formula1 API
+# Formula1 API (Forked)
+
+Edited by Ben Thuss to retrieve current year race schedule and return month value as well. 
 
 ![f1](https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png)  
 
