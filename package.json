@@ -1,7 +1,7 @@
 {
-    "name": "f1-api-node",
-    "version": "1.4.0",
-    "description": "A simple library written in typescript to fetch Formula-1 data",
+    "name": "f1-api-node-2024",
+    "version": "1.0",
+    "description": "A simple library written in typescript to fetch Formula-1 data, forked from orignial to update race schedule fetching. Original package by Yash Kathe katheyash@yahoo.com",
     "main": "dist/server.js",
     "types": "dist/server.d.ts",
     "files": [
@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yashkathe/F1-API"
+        "url": "https://github.com/benthuss-animas/F1-API-JSON-2024"
     },
     "keywords": [
         "F1",
@@ -27,11 +27,11 @@
         "f1 api node"
     ],
     "author": {
-        "email": "katheyash@yahoo.com",
-        "name": "Yash Kathe"
+        "email": "ben@animasdigital.com",
+        "name": "Ben Thuss"
     },
     "license": "GPL-3.0",
-    "bugs": "https://github.com/yashkathe/F1-API/issues",
+    "bugs": "https://github.com/benthuss-animas/F1-API-JSON-2024/issues",
     "devDependencies": {
         "@types/cheerio": "^0.22.31",
         "@types/cors": "^2.8.17",
